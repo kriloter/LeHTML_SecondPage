@@ -11,6 +11,7 @@ nav {
 nav ul {
     width: 1020px;
     margin: 0px auto;
+    text-align: center;
 }
 
 nav ul li {
@@ -28,4 +29,36 @@ nav ul li a {
 
 nav ul li a:hover {
     color: white;
+}
+
+.section1 {
+    background: black;
+}
+
+.section1 img {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+
+main h2 {
+    text-align: center;
+    margin-top: 130px;
+}
+
+main h2 span {
+    font-size: 40px;
+}
+
+.section2 img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(15deg);
+}
+
+.section3 h2 {
+    font-size: 40px;
+    margin-top: 0px;
 }
