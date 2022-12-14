@@ -55,10 +55,18 @@ main h2 span {
     width: 400px;
     display: block;
     margin: 0 auto;
-    transform: rotate(15deg);
+    transform: rotate(20deg);
 }
 
 .section3 h2 {
     font-size: 40px;
     margin-top: 0px;
+}
+
+footer {
+    background: #f5f5f7;
+    color: #86868b;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
 }
